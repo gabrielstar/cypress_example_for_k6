@@ -1,0 +1,6 @@
+/node_modules
+/perf-test/*.json
+/perf-test/*.csv
+/cypress/integration/examples/*
+/cypress/videos/*
+/results/*

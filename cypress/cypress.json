@@ -1,0 +1,11 @@
+{
+  "projectId": "gi4n9q",
+  "reporter": "junit",
+  "chromeWebSecurity": false,
+  "defaultCommandTimeout": 15000,
+  "reporterOptions": {
+    "mochaFile": "results/TEST-demo.xml",
+    "toConsole": true
+  },
+  "baseUrl": "https://jsonplaceholder.typicode.com/"
+}
